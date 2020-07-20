@@ -1,4 +1,4 @@
-# SteamUser
+# SteamUser 
 ### Allows interaction with the Steam network via the Steam client protocol
 [![npm version](https://img.shields.io/npm/v/steam-user.svg)](https://npmjs.com/package/steam-user)
 [![npm downloads](https://img.shields.io/npm/dm/steam-user.svg)](https://npmjs.com/package/steam-user)
